@@ -12,7 +12,7 @@
 
 ## Laboratory 2
 
-##### ADT  SortedMultiMap –using  a  DLL  with  (key,  value)  pairs  ordered  based  on  a  relation  on the keys. A key can appear in multiple pairs.
+##### ADT  SortedMultiMap – using  a  DLL  with  (key,  value)  pairs  ordered  based  on  a  relation  on the keys. A key can appear in multiple pairs.
 
 - Implement in C++ the given container(ADT) using a given representation and a linked list with dynamic allocationas a data  structure. You are not  allowed to use the listfrom STL or from any other library.
 
@@ -25,7 +25,7 @@
 
 ## Laboratory 4
 
-##### ADT Bag–using a hashtable with separate chaining in which the elements are stored. If an element appears multiple times, it will be stored multiple times in the hashtable.
+##### ADT Bag – using a hashtable with separate chaining in which the elements are stored. If an element appears multiple times, it will be stored multiple times in the hashtable.
 
 - Implement in C++ the given container(ADT) using a given representation and a hashtable with a given  collision  resolution(separate  chaining,  coalesced  chaining,  open  addressing)as  a  data  structure. You are not allowed to use any container or data structurefrom STL or from any other library.
 
